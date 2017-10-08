@@ -29,10 +29,9 @@ Resposta: mkdir luciano06
 6 - A partir de sua pasta original, usando o comando find do linux, 
 diga quantos diretorios existem cujo nome começa com "pasta"?
 
-Resposta1 (comando linux usado): find pasta -print
+Resposta1 (comando linux usado): find -name "*pasta?"
 
-Resposta2 (numero de diretorios encontrados) : 
-
+Resposta2 (numero de diretorios encontrados) : 3 diretorios
 
 7 - Qual o comando linux para: 
 Extrair todos os enderecos IP dos arquivos 
