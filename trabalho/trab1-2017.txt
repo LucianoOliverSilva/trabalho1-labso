@@ -1,7 +1,7 @@
 Aluno: (Luciano de Oliveira da silva - Matricula : 0050006799)
 Trabalho de Laboratorio de Sistemas Operacionais
 Professor: Alex Salgado
-1o. Semestre de 2017   Turno: ????
+2o. Semestre de 2017   Turno: Noite
 --------------------------------------------------
 Com relação aos comandos do SO Linux, responda as perguntas abaixo:
 
