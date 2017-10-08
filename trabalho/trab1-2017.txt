@@ -14,7 +14,7 @@ Resposta: pwd,ls e cd
 
 3 - Existe um arquivo chamado access.log na sua pasta atual. Qual é o 
 comando para exibir as últimas 3 linhas deste arquivo?
-Resposta: tail -3
+Resposta: tail -3 access.log 
 
 4 - Crie 3 arquivos em branco que comecem com seu nome e termina com uma sequencia 1, 2 e 3. 
 Ex.: alex1.txt, alex2.txt, alex3.txt. Que comandos você utilizou?
